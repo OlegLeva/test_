@@ -22,3 +22,5 @@ When I did 'merge' everything was fine, but when I did 'rebase' there was an inc
 merge - safer method, does not spoil the history, but when a large project history is hard to read. 
 
 rebase - With rebase, commits look nice and organized, but rebase is best used only locally and when working on a branch yourself, as there can be problems.
+
+https://github.com/OlegLeva/zoola-exsperiment-hw-git-2
