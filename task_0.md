@@ -35,9 +35,9 @@ using the command "git checkout -b oleg-levitskiy-hw-git-2" create a new branch
 
 7. Make sure your .gitignore file exists :) and you did not push any unnecessary files.
 
-.gitignor exists in the root folder, since there are no new unnecessary files, there is no need to update them
+there were no unnecessary files, but I will create in "main" .gitignor for the file created by the macOS operating system in all folders "**/.DS_Store" and I will use the IDE in the future, I add ".idea/"
 
-<img width="565" alt="Снимок экрана 2022-02-05 в 20 54 48" src="https://user-images.githubusercontent.com/60513057/152655105-fb90d231-be19-4a07-80d0-952d82d5bb0a.png">
+<img width="457" alt="Снимок экрана 2022-02-06 в 08 05 44" src="https://user-images.githubusercontent.com/60513057/152669684-5a1dbe99-0329-4600-b97e-d1da7b9373ac.png">
 
 8. Show the git logs.
 
