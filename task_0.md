@@ -45,6 +45,3 @@ there were no unnecessary files, but I will create in "main" .gitignor for the f
 <img width="742" alt="Снимок экрана 2022-02-06 в 10 50 15" src="https://user-images.githubusercontent.com/60513057/152673984-f6711c57-fc3b-45a2-92af-3c73d389f1e7.png">
 
 9. https://github.com/OlegLeva/zoola-exsperiment-hw-git-2
-
-
-
