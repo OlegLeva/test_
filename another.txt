@@ -1,2 +1,2 @@
-remote 22
+remote
 local 22
