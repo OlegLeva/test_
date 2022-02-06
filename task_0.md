@@ -35,13 +35,14 @@ using the command "git checkout -b oleg-levitskiy-hw-git-2" create a new branch
 
 7. Make sure your .gitignore file exists :) and you did not push any unnecessary files.
 
+I dreamed at night that I didn’t add .gitignore, it was so)
 there were no unnecessary files, but I will create in "main" .gitignor for the file created by the macOS operating system in all folders "**/.DS_Store" and I will use the IDE in the future, I add ".idea/"
 
-<img width="457" alt="Снимок экрана 2022-02-06 в 08 05 44" src="https://user-images.githubusercontent.com/60513057/152669684-5a1dbe99-0329-4600-b97e-d1da7b9373ac.png">
+<img width="457" alt="Снимок экрана 2022-02-06 в 08 05 44" src="https://user-images.githubusercontent.com/60513057/152673995-037b0a65-6a98-45de-95fb-9909da162d7f.png">
 
 8. Show the git logs.
 
-<img width="741" alt="Снимок экрана 2022-02-05 в 21 00 58" src="https://user-images.githubusercontent.com/60513057/152655184-fe41a0e6-215c-4842-ba96-6f8921b912f4.png">
+<img width="742" alt="Снимок экрана 2022-02-06 в 10 50 15" src="https://user-images.githubusercontent.com/60513057/152673984-f6711c57-fc3b-45a2-92af-3c73d389f1e7.png">
 
 9. https://github.com/OlegLeva/zoola-exsperiment-hw-git-2
 
